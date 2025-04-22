@@ -8,3 +8,7 @@
 const greeting = "Hello, world!";
 console,log(greeting);
 ```
+## Task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
